@@ -130,4 +130,4 @@ docker-compose.override.yml
 # ─────────────────────────────────────────────
 # AI tooling (local settings only)
 # ─────────────────────────────────────────────
-.claude/
+.claude/settings.local.json
