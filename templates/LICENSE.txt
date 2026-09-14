@@ -1,0 +1,55 @@
+LICENSE NOTICE FOR THE "templates" DIRECTORY
+=============================================
+
+All legal agreement templates in this directory are sourced from Common Paper
+(https://commonpaper.com) and their public GitHub repositories at
+https://github.com/CommonPaper.
+
+Common Paper releases these agreements under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+
+Under this license you are free to:
+
+  * Share  - copy and redistribute the material in any medium or format
+  * Adapt  - remix, transform, and build upon the material for any purpose,
+             even commercially
+
+Under the following terms:
+
+  * Attribution - You must give appropriate credit to Common Paper, provide a
+    link to the license, and indicate if changes were made. You may do so in
+    any reasonable manner, but not in any way that suggests Common Paper
+    endorses you or your use.
+
+  * No additional restrictions - You may not apply legal terms or
+    technological measures that legally restrict others from doing anything
+    the license permits.
+
+Attribution
+-----------
+These templates are based on the Common Paper standard agreements
+(https://commonpaper.com/standards/), licensed under CC BY 4.0. Any
+modifications made by the Prelegal project or its users are derivative
+works and must retain this attribution.
+
+Source repositories
+-------------------
+  Mutual NDA                       https://github.com/CommonPaper/Mutual-NDA
+  Cloud Service Agreement          https://github.com/CommonPaper/CSA
+  Service Level Agreement          https://github.com/CommonPaper/SLA
+  Data Processing Agreement        https://github.com/CommonPaper/DPA
+  Design Partner Agreement         https://github.com/CommonPaper/Design-Partner-Agreement
+  Professional Services Agreement  https://github.com/CommonPaper/PSA
+  Partnership Agreement            https://github.com/CommonPaper/Partnership-Agreement
+  Business Associate Agreement     https://github.com/CommonPaper/BAA
+  Software License Agreement       https://github.com/CommonPaper/Software-License-Agreement
+  Pilot Agreement                  https://github.com/CommonPaper/Pilot-Agreement
+  AI Addendum                      https://github.com/CommonPaper/AI-Addendum
+
+Disclaimer
+----------
+These templates are provided "as is" without warranty of any kind. They are
+not legal advice. Consult a qualified attorney before relying on any
+agreement for your specific situation.
