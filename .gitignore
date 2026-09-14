@@ -1,0 +1,133 @@
+# ─────────────────────────────────────────────
+# Environment / secrets
+# ─────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ─────────────────────────────────────────────
+# Python / FastAPI
+# ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+pip-wheel-metadata/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+
+# Type checkers / linters
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Alembic / DB
+*.db
+*.sqlite
+*.sqlite3
+
+# uv / poetry / pipenv (lockfiles are kept; caches are not)
+.uv-cache/
+
+# ─────────────────────────────────────────────
+# Node / Next.js
+# ─────────────────────────────────────────────
+node_modules/
+.pnp
+.pnp.js
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js build output
+.next/
+out/
+
+# Production build
+*.tsbuildinfo
+next-env.d.ts
+
+# Testing
+/coverage
+
+# Vercel
+.vercel
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# Turbo
+.turbo/
+
+# Storybook
+storybook-static/
+
+# ─────────────────────────────────────────────
+# Editors / IDEs
+# ─────────────────────────────────────────────
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ─────────────────────────────────────────────
+# OS
+# ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ─────────────────────────────────────────────
+# Logs / temp
+# ─────────────────────────────────────────────
+*.log
+logs/
+tmp/
+temp/
+
+# ─────────────────────────────────────────────
+# Docker
+# ─────────────────────────────────────────────
+docker-compose.override.yml
+
+# ─────────────────────────────────────────────
+# AI tooling (local settings only)
+# ─────────────────────────────────────────────
+.claude/settings.local.json
