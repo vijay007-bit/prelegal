@@ -1,0 +1,116 @@
+{
+  "source": "Common Paper (https://github.com/CommonPaper)",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "templates_dir": "templates",
+  "templates": [
+    {
+      "id": "mutual-nda",
+      "name": "Mutual Non-Disclosure Agreement (Standard Terms)",
+      "description": "Standard Terms for a mutual NDA allowing each party to disclose confidential information to the other for a defined Purpose. Covers confidentiality obligations, permitted disclosures, term, and remedies. Designed to be paired with the Mutual NDA Cover Page, which fills in the business terms.",
+      "filename": "mutual-nda.md",
+      "source_repo": "https://github.com/CommonPaper/Mutual-NDA",
+      "source_file": "Mutual-NDA.md",
+      "canonical_url": "https://commonpaper.com/standards/mutual-nda/1.0"
+    },
+    {
+      "id": "mutual-nda-cover-page",
+      "name": "Mutual Non-Disclosure Agreement (Cover Page)",
+      "description": "Fill-in Cover Page for the Mutual NDA. Captures the business terms (Purpose, Effective Date, MNDA Term, Term of Confidentiality, Governing Law, Jurisdiction) and party signatures, and incorporates the Mutual NDA Standard Terms by reference.",
+      "filename": "mutual-nda-cover-page.md",
+      "source_repo": "https://github.com/CommonPaper/Mutual-NDA",
+      "source_file": "Mutual-NDA-coverpage.md",
+      "canonical_url": "https://commonpaper.com/standards/mutual-nda/1.0"
+    },
+    {
+      "id": "cloud-service-agreement",
+      "name": "Cloud Service Agreement (CSA)",
+      "description": "Standard Terms for selling and buying cloud software and SaaS products. Covers service access and use, restrictions, payment and taxes, term and termination, warranties, disclaimers, limitation of liability, indemnification, confidentiality, data protection, and general terms. Used with a Cover Page and Order Forms.",
+      "filename": "cloud-service-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/CSA",
+      "source_file": "CSA.md",
+      "canonical_url": "https://commonpaper.com/standards/cloud-service-agreement/1.0"
+    },
+    {
+      "id": "service-level-agreement",
+      "name": "Service Level Agreement (SLA)",
+      "description": "Standard Terms defining uptime commitments (Target Uptime and how it is calculated), support response times by severity level via a Support Channel, and remedies such as service credits. Designed to be incorporated by reference into a Common Paper Cloud Service Agreement.",
+      "filename": "service-level-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/SLA",
+      "source_file": "sla.md",
+      "canonical_url": "https://commonpaper.com/standards/service-level-agreement/2.0"
+    },
+    {
+      "id": "data-processing-agreement",
+      "name": "Data Processing Agreement (DPA)",
+      "description": "Standard Terms governing the processing of personal data by a Provider on behalf of a Customer. Covers processor and subprocessor relationships, processing instructions, restricted international transfers, security incident response, audits and reports, coordination and cooperation, deletion of Customer Personal Data, limitation of liability, and term. Aligned with GDPR and similar privacy regimes.",
+      "filename": "data-processing-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/DPA",
+      "source_file": "DPA.md",
+      "canonical_url": "https://commonpaper.com/standards/data-processing-agreement/1.0"
+    },
+    {
+      "id": "design-partner-agreement",
+      "name": "Design Partner Agreement",
+      "description": "Standard Terms for an early-access design partner program where a Partner uses a pre-release Product and provides Feedback to the Provider. Covers product access and the design partner program, fees and costs, term and termination, disclaimer of warranties, confidentiality, intellectual property, and general terms.",
+      "filename": "design-partner-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Design-Partner-Agreement",
+      "source_file": "design-partner-agreement.md",
+      "canonical_url": "https://commonpaper.com/standards/design-partner-agreement/1.0"
+    },
+    {
+      "id": "professional-services-agreement",
+      "name": "Professional Services Agreement (PSA)",
+      "description": "Standard Terms for consulting, implementation, and other professional services delivered under Statements of Work (SOWs). Covers service delivery, intellectual property in deliverables, privacy and security, payment and taxes, term and termination, warranties, disclaimers, limitation of liability, indemnification, insurance, confidentiality, and general terms.",
+      "filename": "professional-services-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/PSA",
+      "source_file": "psa.md",
+      "canonical_url": "https://commonpaper.com/standards/professional-services-agreement/1.0"
+    },
+    {
+      "id": "partnership-agreement",
+      "name": "Partnership Agreement",
+      "description": "Standard Terms for a commercial partnership between two companies, such as a referral, reseller, integration, or co-marketing relationship. Covers each party's Obligations and cooperation, payment and taxes, trademark license, privacy, escalation procedure, term and termination, warranties, disclaimers, limitation of liability, indemnification, confidentiality, and general terms.",
+      "filename": "partnership-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Partnership-Agreement",
+      "source_file": "Partnership-Agreement.md",
+      "canonical_url": "https://commonpaper.com/standards/partnership-agreement/1.0"
+    },
+    {
+      "id": "business-associate-agreement",
+      "name": "Business Associate Agreement (BAA)",
+      "description": "Standard Terms required under HIPAA when a Provider (business associate) handles Protected Health Information (PHI) on behalf of a Customer (covered entity). Covers business associate obligations, company obligations, data rights and restrictions, breach notification, and term and termination including PHI return or destruction.",
+      "filename": "business-associate-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/BAA",
+      "source_file": "BAA.md",
+      "canonical_url": "https://commonpaper.com/standards/business-associate-agreement/1.0"
+    },
+    {
+      "id": "software-license-agreement",
+      "name": "Software License Agreement",
+      "description": "Standard Terms for licensing on-premise or self-hosted software to a Customer. Covers the software license grant, restrictions, delivery and installation, support and updates, payment and taxes, term and termination, warranties, disclaimers, limitation of liability, indemnification, and confidentiality. Used with a Cover Page and Order Forms.",
+      "filename": "software-license-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Software-License-Agreement",
+      "source_file": "Software-License-Agreement.md",
+      "canonical_url": "https://commonpaper.com/standards/software-license-agreement/1.0"
+    },
+    {
+      "id": "pilot-agreement",
+      "name": "Pilot Agreement",
+      "description": "Short-term trial or evaluation agreement allowing a prospective Customer to test a Product before committing to a full commercial agreement. Covers pilot access and use for Evaluation Purposes, feedback and usage data, fees (if any), term and termination, representations, disclaimer of warranties, limitation of liability, confidentiality, and general terms. Includes an Order Form to fill in.",
+      "filename": "pilot-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Pilot-Agreement",
+      "source_file": "Pilot-Agreement.md",
+      "canonical_url": "https://commonpaper.com/standards/pilot-agreement/1.0"
+    },
+    {
+      "id": "ai-addendum",
+      "name": "AI Addendum",
+      "description": "Addendum that supplements an existing agreement (such as a CSA or Software License Agreement) to cover AI features of a Product. Addresses use of AI Services, Input and Output, intellectual property and privacy, disclaimers regarding AI-generated content, and definitions.",
+      "filename": "ai-addendum.md",
+      "source_repo": "https://github.com/CommonPaper/AI-Addendum",
+      "source_file": "AI-Addendum.md",
+      "canonical_url": "https://commonpaper.com/standards/ai-addendum/1.0"
+    }
+  ]
+}
